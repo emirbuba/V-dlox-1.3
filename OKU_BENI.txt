@@ -1,0 +1,22 @@
+APK'YI NASIL ALIRIM (bilgisayardan, 10 dakika, ucretsiz)
+
+1) github.com adresine gir, ucretsiz hesap ac (varsa giris yap).
+2) Sag ustte "+" > "New repository". Isim: OyunKayit. "Public" kalsin. "Create repository" de.
+3) Acilan sayfada "uploading an existing file" yazisina tikla.
+4) Bu zip'i once bir klasore cikar. Cikan klasorun ICINDEKI her seyi
+   (app, .github, build.gradle, settings.gradle, gradle.properties) tarayiciya surukle.
+   NOT: ".github" klasoru gorunmuyorsa Windows'ta Gorunum > Gizli ogeler'i ac.
+5) Asagidaki "Commit changes" butonuna bas.
+6) Ustteki "Actions" sekmesine gir. "APK derle" calismaya baslar (3-5 dk). Yesil tik olunca ona tikla.
+7) En altta "Artifacts" bolumunde "OyunKayit-APK" var, tikla, zip iner. Zip'ten app-debug.apk cikar.
+8) APK'yi telefona at, ac. "Bilinmeyen kaynaklardan yukleme" izni isterse ver. Kur.
+
+KULLANIM
+- Uygulamayi ac, cozunurluk / fps / yon / ses sec, "KAYDI BASLAT"a bas, izinleri ver.
+- Oyuna gec. Durdurmak icin bildirim panelinden "Durdur".
+- Video: Galeri > Movies/Vidlox
+
+NOTLAR
+- Android 11 ve ustu gerekir.
+- Bazi oyunlar/uygulamalar oyun sesinin kaydini engeller (sessiz kalir), bu uygulamadan degil oyundan kaynaklanir.
+- Kayit sirasinda telefonu cevirme: once "Yon" ayarini oyuna gore sec.
